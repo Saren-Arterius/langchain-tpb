@@ -1,5 +1,5 @@
 # Langchain-TPB
-A langchain python project that connects to ThePirateBay and SubHD to find best video source and traditional chinese subtitle.
+A langchain python project that connects to ThePirateBay and SubHD to find best video source and traditional chinese subtitle. Optionally downloads them using aria2 RPC and chrome download.
 
 # Requirements
 1. GroqCloud API key: https://console.groq.com/keys
