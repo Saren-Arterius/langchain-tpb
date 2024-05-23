@@ -1,0 +1,2 @@
+langchain-groq==0.1.4
+nodriver==0.29rc2
